@@ -1,0 +1,3373 @@
+[
+    {
+        "term": "BIM",
+        "definition": "Building Information Modelling, a digital representation of physical and functional characteristics of a facility.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "BIM is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "CDE",
+        "definition": "Common Data Environment, a central repository for managing and exchanging information in a project, facilitating collaborative working.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "CDE is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "AIR",
+        "definition": "Asset Information Requirements, specifying the data and information needed to operate and maintain an asset.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "AIR is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "EIR",
+        "definition": "Exchange Information Requirements, defining the information that needs to be exchanged between parties during the project.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "EIR is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "MIDP",
+        "definition": "Master Information Delivery Plan, a high-level plan outlining when project information will be delivered.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "MIDP is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "TIDP",
+        "definition": "Task Information Delivery Plan, details specific information deliverables assigned to individual task teams.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "TIDP is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Appointing Party",
+        "definition": "The client or party responsible for managing information on behalf of the client, per ISO 19650.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Appointing Party is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Lead Appointed Party",
+        "definition": "A party appointed by the client to coordinate information between the delivery team and the appointing party.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Lead Appointed Party is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Appointed Party",
+        "definition": "A party assigned by the lead appointed party to produce project information.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Appointed Party is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Protocol",
+        "definition": "A document compliant with BS EN ISO 19650, outlining standards and procedures for information management on a project.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Protocol is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Task Team",
+        "definition": "A subset of the delivery team responsible for producing specific information deliverables according to the Task Information Delivery Plan (TIDP).",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Task Team is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Container",
+        "definition": "A collection of data managed and exchanged through the Common Data Environment (CDE) with specified attributes including status, revision, and classification.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Container is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Project Information Model (PIM)",
+        "definition": "An information model developed during the design and construction phases to meet exchange information requirements and guide project delivery.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Project Lifecycle",
+            "Project Management"
+        ],
+        "usage": "Project Information Model (PIM) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Asset Information Model (AIM)",
+        "definition": "An information model that supports asset operation and maintenance, built from the PIM post-construction.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Asset Information Model (AIM) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Standard",
+        "definition": "A set of rules and standards that guide how information should be produced and managed within a project.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Standard is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Level of Information Need",
+        "definition": "A framework to specify the level of detail, data, and documentation required to fulfill an information requirement.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Level of Information Need is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Exchange",
+        "definition": "The process of transferring information in a structured format according to the requirements and standards outlined in the information protocol and CDE.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Exchange is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Management Function",
+        "definition": "The role responsible for overseeing and coordinating information management activities across project phases, in line with ISO 19650-2.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Management Function is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Delivery Milestones",
+        "definition": "Key stages in a project when information is reviewed and approved for progression or delivery.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Delivery Milestones is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Tender Response Requirements",
+        "definition": "Criteria set by the appointing party for evaluating the tender submissions of prospective lead appointed parties, often including capabilities in information management and delivery.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Tender Response Requirements is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Production Methods and Procedures",
+        "definition": "Guidelines that dictate how project information is generated, managed, and stored within a CDE for consistency and compliance.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Production Methods and Procedures is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Project Close-Out",
+        "definition": "The final phase in project delivery where information models are archived, and lessons learned are captured for future projects.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [
+            "Project Lifecycle",
+            "Project Management"
+        ],
+        "usage": "Project Close-Out is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "OIR",
+        "definition": "Organizational Information Requirements, outlining the information needed to manage assets effectively, aligned with strategic objectives.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "OIR is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "PIR",
+        "definition": "Project Information Requirements, specifying the information needed at various stages to make project-related decisions.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "PIR is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "BEP",
+        "definition": "BIM Execution Plan, a document defining how BIM processes and standards will be implemented in the project.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "BEP is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "AIM",
+        "definition": "Asset Information Model, created from the PIM and utilized during the operational phase for asset management.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "AIM is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "PIM",
+        "definition": "Project Information Model, a compiled information model that supports the design and construction phases.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "PIM is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Project’s Information Standard",
+        "definition": "A project-level guideline outlining the structures and formats for generating and managing information.",
+        "version": "1.0",
+        "category": "General",
+        "related_terms": [],
+        "usage": "Project’s Information Standard is used in BIM and project workflows to achieve efficient general.",
+        "notes": "This is a General term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "UniClass",
+        "definition": "A unified classification system for all sectors of the UK construction industry, frequently updated to maintain compatibility with BIM.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "UniClass is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "OmniClass",
+        "definition": "A North American classification system for organizing and classifying construction information, incorporating elements from MasterFormat and UniFormat.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "OmniClass is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "NRM1",
+        "definition": "New Rules of Measurement 1, a standard for classifying building specifications, cost estimating, and analysis in the UK.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "NRM1 is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "NRM2",
+        "definition": "New Rules of Measurement 2, providing guidelines for detailed measurement for bills of quantities in the UK construction industry.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "NRM2 is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "MasterFormat",
+        "definition": "A classification system used primarily in North America, dividing construction information into work sections for improved communication and cost planning.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "MasterFormat is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Element",
+        "definition": "A major component, assembly, or construction entity part fulfilling a function within a construction project, often used in cost estimation and planning.",
+        "version": "1.0",
+        "category": "General",
+        "related_terms": [],
+        "usage": "Element is used in BIM and project workflows to achieve efficient general.",
+        "notes": "This is a General term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Work Breakdown Structure (WBS)",
+        "definition": "A structured approach to break down a construction project into elements or packages for cost and schedule management.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Work Breakdown Structure (WBS) is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Bill of Quantities (BQ)",
+        "definition": "A detailed list of items with descriptions and quantities for work in a construction contract, often structured in a Work Breakdown Structure (WBS).",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Bill of Quantities (BQ) is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "System",
+        "definition": "A collection of components organized to perform a function, such as a roof system comprising rafters, insulation, and tiles.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "System is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Product",
+        "definition": "Components intended for permanent integration into a construction project, either as individual items or as assemblies.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Product is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Work Result",
+        "definition": "A completed component or system meeting contractual specifications, often specified without detailing processes.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Work Result is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "Kreo",
+            "title": "The Definitive 2018 Guide to BIM Classification Systems",
+            "publisher": "Kreo",
+            "year": "2018",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "The Definitive 2018 Guide to BIM Classification Systems - Kreo Software.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Functional Breakdown",
+        "definition": "An approach in ISO 19650 for identifying functions within a construction project, replacing the ‘Volume/System’ terminology.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Functional Breakdown is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Spatial Breakdown",
+        "definition": "A classification field for organizing project elements by spatial criteria, adaptable to infrastructure and building scopes.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Spatial Breakdown is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "",
+            "title": "Information management according to BS EN ISO 19650 Guidance Part 2 Parties, teams and processes for the delivery phase of the assets",
+            "publisher": "UK BIM Framework",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "Guidance-Part-2_Parties-teams-and-processes-for-the-delivery-phase-of-assets_Edition-6.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Level of Development (LOD)",
+        "definition": "A framework defining the progression of model elements in terms of reliability and precision of geometry and data in a BIM project.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Level of Development (LOD) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "LOD 100",
+        "definition": "Model elements are represented symbolically or generically with basic information that is approximate, such as quantity or size.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "LOD 100 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "LOD 200",
+        "definition": "Elements are recognizable placeholders with approximate geometry, representing general size, shape, location, and orientation.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "LOD 200 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "LOD 300",
+        "definition": "Elements are graphically represented with accurate geometry and data, suitable for design intent and reliable measurements.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "LOD 300 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "LOD 350",
+        "definition": "Elements are represented with detailed geometry and accurate information on interfaces with adjacent components, enabling coordination.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "LOD 350 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "LOD 400",
+        "definition": "Elements are graphically detailed to the point of supporting fabrication, including exact dimensions and assembly information.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "LOD 400 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "LOD 500",
+        "definition": "Represents the as-built or existing condition verified through observation or field measurement, with specified accuracy levels.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "LOD 500 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Model Element Author (MEA)",
+        "definition": "The individual or entity responsible for developing a specific model element to meet project milestones, per AIA standards.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [
+            "BIM",
+            "Digital Twin"
+        ],
+        "usage": "Model Element Author (MEA) is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Attribute Tables",
+        "definition": "Tables in the LOD Specification that define data attributes for different building systems, guiding information population in BIM elements.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Attribute Tables is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "BIM Execution Plan (BEP)",
+        "definition": "A document outlining project-specific information, milestones, and deliverables to ensure the successful implementation of BIM processes.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "BIM Execution Plan (BEP) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Element Envelope",
+        "definition": "The outer surfaces of a model element, which are approximately defined at LOD 200 and more accurately at LOD 300.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Element Envelope is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Accurate",
+        "definition": "Conformance with intended dimensions, often applied differently for natural elements in landscape architecture due to growth and erosion.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Accurate is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Model Element Table",
+        "definition": "A reference table in the LOD Specification that lists model elements by building system and aligns each with relevant attributes and milestones.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "BIM",
+            "Digital Twin"
+        ],
+        "usage": "Model Element Table is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Level of Accuracy (LOA)",
+        "definition": "A specification, often recommended by the BIMForum, for determining the precision of LOD 500 model elements based on field-verified data.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Level of Accuracy (LOA) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Level of Detail (LoD)",
+        "definition": "The amount of detail included in a model element’s geometry, focusing on visual and physical aspects, not to be confused with Level of Development.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Level of Detail (LoD) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Non-Geometric Information",
+        "definition": "Attributes attached to model elements, which can include data such as cost or phase information, applicable across all LODs.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Non-Geometric Information is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "MEPF Attribute Tables",
+        "definition": "Tables specific to Mechanical, Electrical, Plumbing, and Fire protection systems, organizing data by system component and distribution elements for BIM integration.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "MEPF Attribute Tables is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Milestone",
+        "definition": "A designated point within a project where specific information requirements or deliverables are defined, commonly linked to LOD progressions.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Milestone is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Baseline Attributes",
+        "definition": "The minimum set of data attributes necessary for model elements, ensuring essential information is available across LOD milestones.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Baseline Attributes is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "AIA G202",
+        "definition": "A document in the AIA Contract suite, the Project BIM Protocol Form, which aligns model development requirements for project coordination.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "AIA G202 is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Uniformat",
+        "definition": "A classification system for organizing BIM elements by functional elements (e.g., foundation, wall systems) to improve project specification and tracking.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Uniformat is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "BIMForum",
+            "title": "Level of Development (LOD) Specification Part 1",
+            "publisher": "BIMForum",
+            "year": "2023",
+            "document_type": "Specification",
+            "source": "",
+            "filename": "LOD-Spec-2023-Part-I-2024-02-27-Chunked.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Common Data Environment (CDE)",
+        "definition": "A single source of information used to collect, manage, and disseminate all relevant approved project documents for multi-disciplinary teams in a managed process.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Common Data Environment (CDE) is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Employer’s Information Requirements (EIR)",
+        "definition": "Pre-tender document outlining the information to be delivered, along with standards and processes, for the project delivery process.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Employer’s Information Requirements (EIR) is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Project Information Model (PIM)",
+        "definition": "The information model developed during the design and construction phases of a project, eventually transitioned into an AIM.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Project Lifecycle",
+            "Project Management"
+        ],
+        "usage": "Project Information Model (PIM) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Asset Information Model (AIM)",
+        "definition": "A maintained information model used to manage, maintain, and operate the asset through its lifecycle.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Asset Information Model (AIM) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "BIM Execution Plan (BEP)",
+        "definition": "A plan created by suppliers detailing how the BIM elements of a project will be implemented in alignment with the employer’s requirements.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "BIM Execution Plan (BEP) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Level of Definition",
+        "definition": "A term encompassing 'level of model detail' (graphical) and 'level of information detail' (non-graphical) for each project stage.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Level of Definition is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Master Information Delivery Plan (MIDP)",
+        "definition": "The main plan outlining when project information is to be prepared, by whom, and in accordance with which protocols and procedures.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Master Information Delivery Plan (MIDP) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Clash Rendition",
+        "definition": "A rendition of the model used specifically for spatial coordination processes to avoid or detect clashes.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Clash Rendition is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Task Information Delivery Plan (TIDP)",
+        "definition": "Lists information deliverables by each task team, detailing the format, date, and responsible party for each deliverable.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Task Information Delivery Plan (TIDP) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Level 2 BIM Maturity",
+        "definition": "A collaborative level of BIM maturity where each discipline creates its own 3D model, but exchange standards and methods ensure interoperability for a federated model approach.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Level 2 BIM Maturity is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "COBie",
+        "definition": "Construction Operations Building Information Exchange, a data schema for sharing facility information essential to commissioning, operation, and maintenance, often provided in spreadsheet format.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "COBie is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Federated Model",
+        "definition": "A collection of separate models that together represent the entire project, used for coordination and clash detection among different disciplines.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Federated Model is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Clash Detection",
+        "definition": "A process within BIM that identifies and resolves conflicts in design before construction, using 3D models to ensure coordination between disciplines.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Clash Detection is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Data Drop",
+        "definition": "The transfer of specific sets of information from one project stage to another, aligned with key decision points defined in the Employer’s Information Requirements.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [
+            "Data Management",
+            "Data Standards"
+        ],
+        "usage": "Data Drop is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Handover",
+        "definition": "The stage at which the completed Project Information Model (PIM) transitions to an Asset Information Model (AIM) for operational use by the employer.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Handover is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Plain Language Questions (PLQs)",
+        "definition": "Questions formulated by the employer to assess key deliverables and decision points, ensuring the information is comprehensible and actionable.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Plain Language Questions (PLQs) is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Supply Chain Capability Summary",
+        "definition": "A summary document outlining the capability of each supply chain participant to meet the Employer’s Information Requirements (EIR).",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Supply Chain Capability Summary is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Approval Gate",
+        "definition": "A designated point in the CDE workflow where information must be reviewed and approved before transitioning to the shared section.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Approval Gate is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Shared Area",
+        "definition": "The section within the Common Data Environment (CDE) where approved project information is accessible to relevant team members for collaboration.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Shared Area is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Published Documentation",
+        "definition": "Information that has passed all necessary checks and approvals in the CDE and is released as part of project deliverables.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Published Documentation is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Archive",
+        "definition": "The final section within the CDE where all verified and historical project data is stored, providing an audit trail of the project lifecycle.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Archive is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "As-built",
+        "definition": "The as-constructed condition of an asset, recorded in the CDE to reflect final construction details for operational use.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "As-built is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Attribute",
+        "definition": "A piece of data that forms part of the description of an object or entity within the model.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Attribute is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Author",
+        "definition": "The originator of model files, drawings, or documents, responsible for creating information in the project.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Author is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Building Information Modelling Execution Plan (BEP)",
+        "definition": "A plan developed by suppliers to detail the methodology for implementing BIM on the project to align with the employer’s requirements.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Building Information Modelling Execution Plan (BEP) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Building Information Modelling (BIM)",
+        "definition": "The process of using electronic object-oriented information to design, construct, or operate a building or infrastructure asset.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Building Information Modelling (BIM) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "CIC Scope of Services",
+        "definition": "A multi-disciplinary scope of services published by the Construction Industry Council for use by project team members on major projects.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "CIC Scope of Services is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Classification",
+        "definition": "A systematic arrangement of headings and sub-headings for aspects of construction work, including asset types, elements, systems, and products.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Classification is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Client",
+        "definition": "The individual or organization commissioning a built asset; this may differ from the employer responsible for funding the project.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Client is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Configuration Management",
+        "definition": "Coordinated activities to control and maintain information consistency throughout the project lifecycle, as per BS ISO 10007:2003.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Configuration Management is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "2D",
+        "definition": "Two-dimensional.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "2D is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "2D Drawing",
+        "definition": "A view of a model referenced into a 'drawing sheet template.' Such drawings are static renditions, generated each time for sharing at milestones.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "2D Drawing is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "2D Model",
+        "definition": "A model with entities having two-dimensional properties. Considered dynamic as they consist of 'model files' that are 'x-ref' or 'reference' files.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "2D Model is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "3D",
+        "definition": "Three-dimensional.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "3D is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "3D Model",
+        "definition": "A model with objects having three-dimensional properties, always dynamic, made up of 'model files' that are 'x-ref' or 'reference' files.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "3D Model is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "3D Visualization",
+        "definition": "3D images from the CAD model, or a virtual representation of the building or facility to be constructed, used for visualizing the project.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "3D Visualization is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "As-built or As-constructed",
+        "definition": "A model that defines the delivered project with record drawings and documentation reflecting any deviations from design.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "As-built or As-constructed is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Assembly",
+        "definition": "A group of components or types to enable reuse of standardized design elements, enhancing productivity and providing a repository for specifications and lessons learned.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Assembly is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Electronic Document Management System (EDMS)",
+        "definition": "A system used for managing, storing, retrieving, and sharing electronic documents, enhancing file security, version control, and access privileges.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Electronic Document Management System (EDMS) is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Employer",
+        "definition": "The individual or organization for whom a contract is executed and delivered.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Employer is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Employer's Information Requirements (EIR)",
+        "definition": "A document that specifies the information to be delivered by the supplier as part of the project delivery process to the employer.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Employer's Information Requirements (EIR) is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Exchange",
+        "definition": "A structured collection of information at predefined stages of a project, specified in terms of format and fidelity.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Exchange is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Management",
+        "definition": "Tasks and procedures applied to ensure accuracy and integrity of information during its input, processing, and generation.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Management is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Model",
+        "definition": "A model comprising three constituent parts: documentation, non-graphical information, and graphical information.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Model is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Modelling",
+        "definition": "The use of data to provide new information by applying logic or mathematical functions for enhanced understanding.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Modelling is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Lean Principles",
+        "definition": "Methods focused on delivering value to the employer while eliminating non-value-adding activities, based on efficient workflow practices.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Lean Principles is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "SI System",
+        "definition": "Le Système International d'Unités, the international system of units for standard measurements in scientific and engineering applications.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "SI System is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "SMP (Standard Method and Procedure)",
+        "definition": "A set of standard methods and procedures covering the way information is named, expressed, and referenced in project documentation.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "SMP (Standard Method and Procedure) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Soft Landings",
+        "definition": "A structured, graduated handover process of a built asset from design and construction teams to operational teams for familiarization and optimization.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Soft Landings is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Status",
+        "definition": "Indicates the 'suitability' of information in a model, drawing, or document, specifying its purpose in project workflows.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "Status is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Supplier",
+        "definition": "A provider of services or goods either directly to the employer or as part of a supply chain, contributing to project execution.",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Supplier is used in BIM and project workflows to achieve efficient project lifecycle.",
+        "notes": "This is a Project Lifecycle term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "System",
+        "definition": "A group of components that work together to provide a specific building service, such as an envelope or ventilation system.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "System is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Uniclass",
+        "definition": "A unified classification system for the construction industry, integrating multiple classification standards for efficient organization.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Uniclass is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Asset Information Management",
+        "definition": "The strategic practice of capturing, managing, and analyzing digital asset data throughout the asset lifecycle to improve decision-making and operational efficiency.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Asset Information Management is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "OpenBIM",
+        "definition": "A vendor-neutral, collaborative approach to building information modeling that ensures interoperability and data exchange through open standards, supporting asset lifecycle management.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "OpenBIM is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Dark Data",
+        "definition": "Data that organizations collect, process, and store but do not use or analyze, often limiting its potential to add value.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Dark Data is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Whole-Life Asset Management",
+        "definition": "An approach to asset management focusing on maximizing asset value and sustainability across the entire lifecycle, from design and construction to operation and disposal.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Whole-Life Asset Management is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Digital Twin",
+        "definition": "A virtual representation of a physical asset that allows real-time data integration, analysis, and simulation to support asset management and operational decisions.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Digital Twin is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Circular Economy",
+        "definition": "An economic system aimed at minimizing waste and making the most of resources, where asset information management plays a role in promoting re-use and sustainable practices.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Circular Economy is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "ISO 55000",
+        "definition": "An international standard providing guidelines and structure for asset management, emphasizing value creation over an asset's lifecycle.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "ISO 55000 is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Connected Data Environment",
+        "definition": "A digital ecosystem where asset information is structured and accessible across various platforms, ensuring stakeholders have the data needed for lifecycle asset management.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Connected Data Environment is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Open Data Standards",
+        "definition": "Protocols and formats that facilitate data sharing and interoperability, allowing asset information to be used across different platforms and software environments.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Open Data Standards is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Digital Transformation",
+        "definition": "The shift to digital processes and data standards for improving asset management, enabling efficiency, cost savings, and data-driven decision making.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Digital Transformation is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Data Interoperability",
+        "definition": "The ability for diverse data systems and formats to exchange and make use of information seamlessly, critical in asset information management.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Data Standards"
+        ],
+        "usage": "Data Interoperability is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Whole-Life Asset Value",
+        "definition": "A focus on maximizing the benefits of assets over their entire lifecycle, from creation through maintenance to eventual disposal or repurposing.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Whole-Life Asset Value is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "TOTEX (Total Expenditure)",
+        "definition": "An approach considering both capital expenditure (CAPEX) and operational expenditure (OPEX) to enhance financial efficiency in asset management.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "TOTEX (Total Expenditure) is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Executive Leadership",
+        "definition": "The role of senior leaders in driving digital transformation by supporting strategic data management plans that align with organizational goals.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Executive Leadership is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "buildingSMART International",
+            "title": "Liberating Built Asset Information to Achieve your Organizational Objectives",
+            "publisher": "buildingSMART International Ltd",
+            "year": "2021",
+            "document_type": "White Paper",
+            "source": "",
+            "filename": "LiberatingBuiltAssetInformation_Whitepaper_bSI_2021_c.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Work in Progress (WIP)",
+        "definition": "A component of the Common Data Environment (CDE) used to hold unapproved information specific to each organizational role, concluding with the Approval Gate to transition the information to the Shared Area once it has been reviewed and approved.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Work in Progress (WIP) is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "British Standards Institution",
+            "title": "Specification for information management for the capital/delivery phase of construction projects using building information modelling",
+            "publisher": "BSI Standards Limited",
+            "year": "2013",
+            "document_type": "Standard",
+            "source": "",
+            "filename": "PAS1192-2-BIM.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Information Container",
+        "definition": "A digital or physical repository used to store information relevant to a project, such as models, drawings, and reports, identified uniquely within the Common Data Environment (CDE).",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Information Standards"
+        ],
+        "usage": "Information Container is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Status Code",
+        "definition": "A code assigned to an information container indicating its suitability and progression stage, such as Work in Progress (WIP) or Shared.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Status Code is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Metadata",
+        "definition": "Attributes assigned to information containers that define data properties such as status, revision, and classification, ensuring accurate management within the CDE.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Metadata is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Work in Progress (WIP)",
+        "definition": "A stage within the CDE where information containers are stored before being shared, indicating they are still under development.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Work in Progress (WIP) is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Classification",
+        "definition": "Organizing information into categories for easier identification and management, often using systems like Uniclass or OmniClass.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Classification is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Field Codification",
+        "definition": "The process of defining standardized codes for each information container field, such as project, originator, and level, ensuring unique identification.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Field Codification is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Unique Identifier",
+        "definition": "A unique string assigned to each information container based on an agreed coding convention, facilitating identification across the project lifecycle.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Unique Identifier is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Revision Code",
+        "definition": "A code that tracks changes to an information container, maintaining an audit trail for the document's lifecycle in the CDE.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Revision Code is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Shared Area",
+        "definition": "A section within the CDE where information containers are available to relevant project members after approval, enabling cross-team collaboration.",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [],
+        "usage": "Shared Area is used in BIM and project workflows to achieve efficient data management.",
+        "notes": "This is a Data Management term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "National Annex (NA)",
+        "definition": "A supplemental document that provides local or national guidance for implementing ISO 19650 standards, without altering the main standard’s requirements.",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [],
+        "usage": "National Annex (NA) is used in BIM and project workflows to achieve efficient information standards.",
+        "notes": "This is a Information Standards term commonly found in BIM and digital asset management contexts.",
+        "citation": {
+            "author": "CDBB",
+            "title": "National Annex Guidance",
+            "publisher": "University of Cambridge",
+            "year": "2021",
+            "document_type": "Guidance",
+            "source": "",
+            "filename": "19650-UK-national_annex_guidance.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "AASHTO",
+        "definition": "American Association of State Highway and Transportation Officials",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "Used widely in U.S. transportation standards and policies.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "BEP",
+        "definition": "BIM execution plan",
+        "version": "1.0",
+        "category": "Information Standards",
+        "related_terms": [
+            "BIM",
+            "Execution"
+        ],
+        "usage": "A key document in BIM project planning.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "BIM",
+        "definition": "Building Information Modeling",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Digital Twin",
+            "3D Modeling"
+        ],
+        "usage": "Essential in the digital representation of infrastructure projects.",
+        "notes": "Key methodology for infrastructure planning and management.",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "CDE",
+        "definition": "Common Data Environment",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Data Management",
+            "Interoperability"
+        ],
+        "usage": "Used for centralized data management in BIM projects.",
+        "notes": "Part of ISO 19650 standards for data management.",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "GIS",
+        "definition": "Geographic Information System",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Spatial Data",
+            "Mapping"
+        ],
+        "usage": "Widely used for spatial data analysis and mapping in infrastructure.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "IFC",
+        "definition": "Industry Foundation Classes",
+        "version": "1.0",
+        "category": "Data Management",
+        "related_terms": [
+            "Interoperability",
+            "BIM Standards"
+        ],
+        "usage": "Used to define open BIM data exchange standards.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "CEDR",
+        "definition": "Conference of European Directors of Roads",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [],
+        "usage": "CEDR supports collaboration and standards in European road infrastructure.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "DBFM",
+        "definition": "Design-build-finance-maintain",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [
+            "Public-Private Partnerships",
+            "Infrastructure Delivery"
+        ],
+        "usage": "DBFM models are used for comprehensive project delivery and maintenance approaches.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "FTIA",
+        "definition": "Finnish Transport Infrastructure Agency",
+        "version": "1.0",
+        "category": "Project Lifecycle",
+        "related_terms": [
+            "Transport Infrastructure",
+            "Government Agencies"
+        ],
+        "usage": "FTIA oversees transport infrastructure and BIM in Finland.",
+        "notes": "",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 10",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        },
+        "status": "active"
+    },
+    {
+        "term": "Object-Type Library (OTL)",
+        "definition": "A taxonomy of well-defined objects and their properties plus the relationships between the objects, used to create BIM models and represent the physical and functional characteristics of infrastructure assets.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 65",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Classification System",
+        "definition": "A structured organization of information within BIM, which provides a basis for developing standard objects that represent infrastructure elements, incorporating both geometric and non-geometric data.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 66",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Information Requirements (IR)",
+        "definition": "Defined data needs across asset life-cycle stages to meet stakeholder needs, such as planning, design, construction, and O&M. Information Requirements guide data modeling for BIM applications.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 57",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Information Exchange Specifications",
+        "definition": "Standards outlining how data models are to be exchanged, ensuring consistent and seamless data transfer between enterprise systems throughout the project lifecycle.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 57",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Ontology",
+        "definition": "A system for grouping object types within an Object-Type Library (OTL) to enable relationships between objects, supporting data modeling and classification in BIM.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 65",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Project Information Requirements (PIR)",
+        "definition": "Information needs for a specific project, developed based on Organizational Information Requirements and conveyed through Exchange Information Requirements to guide data modeling for a project.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 58",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Asset Information Requirements (AIR)",
+        "definition": "Requirements that detail the information needs of an asset to support operations and maintenance activities, ensuring asset information aligns with lifecycle requirements.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 58",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Building Information Modeling Execution Plan (BEP)",
+        "definition": "A project-specific plan outlining the roles, processes, and data exchanges necessary for implementing BIM effectively across project phases.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 70",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Information Delivery Specification (IDS)",
+        "definition": "Documentation standards used in model-based procurement processes to specify data deliverables, roles, and responsibilities for data management on projects.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 68",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Common Data Environment (CDE)",
+        "definition": "A shared digital environment for storing, managing, and exchanging data, facilitating collaboration among project stakeholders.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 80",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Model Contract Template",
+        "definition": "Standardized contract language that incorporates BIM data management expectations for procurement, specifying roles, responsibilities, and data exchange requirements.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 68",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Geometric and Non-Geometric Data",
+        "definition": "Attributes associated with infrastructure objects, where geometric data refer to spatial properties (e.g., 2D or 3D shapes) and non-geometric data include specifications such as material properties.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 66",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Object Type Library (OTL)",
+        "definition": "A collection of standard object definitions and properties within BIM, organized by types and attributes, to promote consistency in data modeling.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 65",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Exchange Information Requirements (EIR)",
+        "definition": "Specifications detailing the information that must be exchanged during a project phase, derived from Project Information Requirements to ensure that data needs are met at each lifecycle stage.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 58",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Unified Modeling Language (UML)",
+        "definition": "A standardized modeling language for specifying, visualizing, and documenting elements within information models, supporting the alignment of data structures with agency requirements.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 56",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Common Data Environment (CDE)",
+        "definition": "A centralized digital environment used to store and manage project information throughout its lifecycle, promoting consistent data access for project stakeholders.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 91",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Data Interoperability",
+        "definition": "The ability to exchange and use data across different platforms and software systems, ensuring seamless project information transfer.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 95",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Asset Information Requirements (AIR)",
+        "definition": "Specifications detailing the information needed for asset management activities, enabling efficient operational and maintenance management.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 92",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "ProjectWise",
+        "definition": "A project collaboration and information management software used within BIM projects to facilitate document and data sharing.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 91",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Model Progression and Coordination",
+        "definition": "The process of developing BIM models through various stages, integrating elements, detecting clashes, and validating accuracy for project milestones.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 87",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Electronic Document Management System (EDMS)",
+        "definition": "A digital tool used to manage, store, and organize project documents, often integrated with BIM for efficient information retrieval.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 89",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Integrated BIM Model",
+        "definition": "A comprehensive 3D model incorporating various project elements and phases to support design, construction, and management tasks.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 89",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Data Room",
+        "definition": "A secure digital environment where BIM project data is organized, stored, and accessed, often used for collaboration and version control.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 96",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Object-Oriented Database",
+        "definition": "A database that organizes data into objects rather than tables, used in BIM to store asset data and facilitate 3D model integration.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 92",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Digital Twin",
+        "definition": "A digital replica of physical assets, processes, and systems, used in infrastructure to enhance decision-making and optimize asset management.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 94",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Data Silos",
+        "definition": "Isolated sets of information within different systems or departments, which BIM aims to integrate by promoting data interoperability and shared access.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 78",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Organizational Information Requirements (OIR)",
+        "definition": "High-level information needs of an organization that guide project-level requirements for data modeling and exchange in BIM projects.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 80",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Common Organization of Information Requirements (COINS)",
+        "definition": "A standard for packaging, managing, and exchanging asset information in a structured format to ensure consistency in BIM projects.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 92",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "BIM Execution Framework",
+        "definition": "A structured framework of documents that outline standard management procedures and roles for implementing BIM on projects.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 80",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "VISI Standard",
+        "definition": "A Dutch standard for managing digital communication flows in infrastructure projects, used to track and validate data exchanges.",
+        "category": "Information Standards",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 96",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "As-Built Data Model",
+        "definition": "A final model created at the end of construction that reflects any design changes made during construction, used for asset management.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 79",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "Interoperability",
+        "definition": "The capability to exchange and use data across different BIM platforms and tools without losing functionality or data integrity.",
+        "category": "Data Management",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 81",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    },
+    {
+        "term": "E4 Stockholm Bypass Project",
+        "definition": "A major infrastructure project in Sweden where BIM was used to coordinate model data for efficient project management and construction.",
+        "category": "Project Lifecycle",
+        "citation": {
+            "author": "Jag Mallela, April Blackburn, Roger Grant, Michael Kennerly, Katherine Petros, Connie Yew",
+            "title": "Building Information Modeling (BIM) Practices in Highway Infrastructure: FHWA Global Benchmarking Program Report",
+            "publisher": "Federal Highway Administration (FHWA)",
+            "year": "2021",
+            "document_type": "Benchmarking",
+            "source": "Page 94",
+            "filename": "fhwa_pl21024_BIM-Benchmark-2021.pdf"
+        }
+    }
+]
