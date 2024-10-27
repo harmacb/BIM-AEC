@@ -21,7 +21,7 @@ This glossary is regularly updated and expanded to ensure that it remains releva
 
 ## 🌐 Using the Glossary
 
-Visit the [GitHub Pages site](https://yourusername.github.io/BIM-AEC-Glossary) to explore the glossary. The site includes:
+Visit the [GitHub Pages site](https://harmacb.github.io/BIM-AEC-Glossary) to explore the glossary. The site includes:
 - **Glossary Page**: Browse terms and definitions, with options to search and filter by categories like Data Management, Project Lifecycle, and Information Standards.
 - **About/Updates Page**: Learn more about the glossary, including the latest updates and additions.
 
@@ -30,7 +30,7 @@ Visit the [GitHub Pages site](https://yourusername.github.io/BIM-AEC-Glossary) t
 To use or contribute to this glossary:
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/BIM-AEC-Glossary.git
+    git clone https://github.com/harmacb/BIM-AEC-Glossary.git
     ```
 2. **View the Glossary JSON**:
     The glossary is maintained in `data/glossary.json`, which is structured for easy updating and integration into other applications.
