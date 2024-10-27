@@ -17,3 +17,7 @@ body {
 .term h3 {
     margin: 0;
 }
+
+.term p {
+    margin: 5px 0;
+}
