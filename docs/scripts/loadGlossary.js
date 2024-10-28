@@ -4,7 +4,7 @@
 async function loadGlossary() {
     try {
         // Fetch glossary data from the JSON file
-        const response = await fetch('data/bim-glossary.json');
+        const response = await fetch('../data/bim-glossary.json');
         
         // Check if the response is OK
         if (!response.ok) throw new Error('Failed to load glossary data.');
@@ -20,7 +20,7 @@ async function loadGlossary() {
     }
 }
 
-// Function to display the glossary data in HTML
+// Function to display the glossary data in HTML with updated formatting
 function displayGlossary(glossary) {
     const container = document.getElementById('glossary-container');
     glossary.forEach(term => {
@@ -28,53 +28,49 @@ function displayGlossary(glossary) {
         const termElement = document.createElement('div');
         termElement.classList.add('term');
 
-        // Display term and definition
+        // Format the term title and version
         const title = document.createElement('h3');
-        title.innerText = `${term.term} (v${term.version})`;
+        title.innerHTML = `<strong>${term.term} (v${term.version})</strong>`;
         
+        // Add definition
         const definition = document.createElement('p');
-        definition.innerText = `Definition: ${term.definition}`;
+        definition.innerHTML = `<strong>Definition:</strong> ${term.definition}`;
 
-        // Additional fields
+        // Add category
         const category = document.createElement('p');
-        category.innerText = `Category: ${term.category}`;
+        category.innerHTML = `<strong>Category:</strong> ${term.category}`;
 
+        // Add usage
         const usage = document.createElement('p');
-        usage.innerText = `Usage: ${term.usage}`;
+        usage.innerHTML = `<strong>Usage:</strong> ${term.usage}`;
 
+        // Add notes if available
         if (term.notes) {
             const notes = document.createElement('p');
-            notes.innerText = `Notes: ${term.notes}`;
+            notes.innerHTML = `<strong>Notes:</strong> ${term.notes}`;
             termElement.appendChild(notes);
         }
 
-        // Display related terms
-        if (term.related_terms && term.related_terms.length > 0) {
-            const related = document.createElement('p');
-            related.innerText = `Related Terms: ${term.related_terms.join(', ')}`;
-            termElement.appendChild(related);
-        }
-
-        // Display citation details if available
+        // Add citation details if available
         if (term.citation) {
             const citation = document.createElement('p');
-            citation.innerHTML = `
-                <strong>Citation:</strong> ${term.citation.author}, "${term.citation.title}", ${term.citation.publisher}, ${term.citation.year}, ${term.citation.source}. <br>
-                <em>Filename:</em> ${term.citation.filename}
-            `;
+            citation.innerHTML = `<strong>Citation:</strong> ${term.citation.author}, "${term.citation.title}", ${term.citation.publisher}, ${term.citation.year}, ${term.citation.source}.<br><em>Filename:</em> ${term.citation.filename}`;
             termElement.appendChild(citation);
         }
 
-        // Append everything to the term container
+        // Append everything in the correct order to the term container
         termElement.appendChild(title);
         termElement.appendChild(definition);
         termElement.appendChild(category);
         termElement.appendChild(usage);
-        
+
+        // Only add notes and citation if they exist
+        if (term.notes) termElement.appendChild(notes);
+        if (term.citation) termElement.appendChild(citation);
+
         container.appendChild(termElement);
     });
 }
 
 // Call the loadGlossary function when the page loads
 window.onload = loadGlossary;
-
