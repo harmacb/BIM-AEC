@@ -4,7 +4,7 @@
 async function loadGlossary() {
     try {
         // Fetch glossary data from the JSON file
-        const response = await fetch('../data/bim-glossary.json');
+        const response = await fetch('data/bim-glossary.json');
         
         // Check if the response is OK
         if (!response.ok) throw new Error('Failed to load glossary data.');
