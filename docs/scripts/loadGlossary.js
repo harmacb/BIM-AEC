@@ -24,53 +24,58 @@ async function loadGlossary() {
 function displayGlossary(glossary) {
     const container = document.getElementById('glossary-container');
     glossary.forEach(term => {
-        // Create HTML elements for each term
+        // Create a container for each term entry
         const termElement = document.createElement('div');
         termElement.classList.add('term');
 
-        // Format the term title and version
+        // Display the term and version
         const title = document.createElement('h3');
-        title.innerHTML = `<strong>${term.term} (v${term.version})</strong>`;
+        title.innerHTML = `<strong>${term.term} ${term.version ? `(v${term.version})` : ''}</strong>`;
         
-        // Add definition
+        // Display definition
         const definition = document.createElement('p');
-        definition.innerHTML = `<strong>Definition:</strong> ${term.definition}`;
-
-        // Add category
+        definition.innerHTML = `<strong>Definition:</strong> ${term.definition || 'No definition available.'}`;
+        
+        // Display category
         const category = document.createElement('p');
-        category.innerHTML = `<strong>Category:</strong> ${term.category}`;
-
-        // Add usage
+        category.innerHTML = `<strong>Category:</strong> ${term.category || 'No category available.'}`;
+        
+        // Display usage if present
         const usage = document.createElement('p');
-        usage.innerHTML = `<strong>Usage:</strong> ${term.usage}`;
+        usage.innerHTML = `<strong>Usage:</strong> ${term.usage || 'No usage information available.'}`;
 
-        // Add notes if available
+        // Display notes if they exist
         if (term.notes) {
-            const notes = document.createElement('p');
-            notes.innerHTML = `<strong>Notes:</strong> ${term.notes}`;
-            termElement.appendChild(notes);
+            const notesElement = document.createElement('p');
+            notesElement.innerHTML = `<strong>Notes:</strong> ${term.notes}`;
+            termElement.appendChild(notesElement);
         }
 
-        // Add citation details if available
+        // Display citation details if they exist
         if (term.citation) {
             const citation = document.createElement('p');
-            citation.innerHTML = `<strong>Citation:</strong> ${term.citation.author}, "${term.citation.title}", ${term.citation.publisher}, ${term.citation.year}, ${term.citation.source}.<br><em>Filename:</em> ${term.citation.filename}`;
+            citation.innerHTML = `
+                <strong>Citation:</strong> ${term.citation.author || 'Unknown author'}, 
+                "${term.citation.title || 'Unknown title'}", 
+                ${term.citation.publisher || 'Unknown publisher'}, 
+                ${term.citation.year || 'Unknown year'}, 
+                ${term.citation.source || 'No source available'}.
+                <br><em>Filename:</em> ${term.citation.filename || 'No filename available.'}
+            `;
             termElement.appendChild(citation);
         }
 
-        // Append everything in the correct order to the term container
+        // Append all elements in the correct order
         termElement.appendChild(title);
         termElement.appendChild(definition);
         termElement.appendChild(category);
         termElement.appendChild(usage);
 
-        // Only add notes and citation if they exist
-        if (term.notes) termElement.appendChild(notes);
-        if (term.citation) termElement.appendChild(citation);
-
+        // Finally, add the term element to the container
         container.appendChild(termElement);
     });
 }
+
 
 // Call the loadGlossary function when the page loads
 window.onload = loadGlossary;
