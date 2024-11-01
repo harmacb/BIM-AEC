@@ -44,14 +44,20 @@ function displayGlossary(glossary) {
         const usage = document.createElement('p');
         usage.innerHTML = `<strong>Usage:</strong> ${term.usage || 'No usage information available.'}`;
 
-        // Display notes if they exist
+        // Append elements in the specified order
+        termElement.appendChild(title);
+        termElement.appendChild(definition);
+        termElement.appendChild(category);
+        termElement.appendChild(usage);
+
+        // Conditionally add notes if they exist
         if (term.notes) {
             const notesElement = document.createElement('p');
             notesElement.innerHTML = `<strong>Notes:</strong> ${term.notes}`;
             termElement.appendChild(notesElement);
         }
 
-        // Display citation details if they exist
+        // Conditionally add citation details if they exist
         if (term.citation) {
             const citation = document.createElement('p');
             citation.innerHTML = `
@@ -64,12 +70,6 @@ function displayGlossary(glossary) {
             `;
             termElement.appendChild(citation);
         }
-
-        // Append all elements in the correct order
-        termElement.appendChild(title);
-        termElement.appendChild(definition);
-        termElement.appendChild(category);
-        termElement.appendChild(usage);
 
         // Finally, add the term element to the container
         container.appendChild(termElement);
