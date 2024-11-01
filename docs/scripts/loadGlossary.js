@@ -1,4 +1,5 @@
 let glossaryData = [];  // Store original glossary data for easy resetting
+let globalTermCounts = {};  // Store term counts for the entire glossary
 
 async function loadGlossary() {
     try {
@@ -8,13 +9,15 @@ async function loadGlossary() {
         const glossary = await response.json();
         glossaryData = glossary;
 
-        const termCounts = glossary.reduce((acc, term) => {
+        // Calculate term counts for the entire glossary and store it in globalTermCounts
+        globalTermCounts = glossary.reduce((acc, term) => {
             acc[term.term] = (acc[term.term] || 0) + 1;
             return acc;
         }, {});
 
+        // Populate the publisher dropdown and display the full glossary
         populatePublisherDropdown(glossary);
-        displayGlossary(glossary, termCounts);
+        displayGlossary(glossary, globalTermCounts);
     } catch (error) {
         console.error("Error details:", error);
         document.getElementById('glossary-container').innerHTML = 'Error loading glossary. Check console for details.';
@@ -96,8 +99,8 @@ function displayGlossary(glossary, termCounts) {
             termElement.appendChild(citation);
         }
 
-        // Add link to view all definitions if the term appears more than once
-        if (termCounts[term.term] > 1) {
+        // Use globalTermCounts to determine if "See all definitions" link should appear
+        if (globalTermCounts[term.term] > 1) {
             const link = document.createElement('a');
             link.href = `#`;  // Prevent page jump by keeping href="#"
             link.innerText = `See all definitions for ${term.term}`;
