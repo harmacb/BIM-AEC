@@ -55,6 +55,37 @@ function filterByPublisher() {
     displayGlossary(filteredGlossary, termCounts);
 }
 
+// Filter Glossary and Search Glossary
+function filterGlossaryByTerm(selectedTerm) {
+    console.log(`Filtering by term: ${selectedTerm}`);  // Debugging statement
+
+    const filteredGlossary = glossaryData.filter(item => item.term === selectedTerm);
+
+    if (filteredGlossary.length === 0) {
+        console.log(`No entries found for term: ${selectedTerm}`);  // Debugging statement
+    } else {
+        console.log(`Found ${filteredGlossary.length} entries for term: ${selectedTerm}`);  // Debugging statement
+    }
+
+    const termCounts = filteredGlossary.reduce((acc, term) => {
+        acc[term.term] = (acc[term.term] || 0) + 1;
+        return acc;
+    }, {});
+
+    displayGlossary(filteredGlossary, globalTermCounts);
+}
+
+function searchGlossary() {
+    const query = document.getElementById('search-bar').value.toLowerCase();
+    const filteredGlossary = glossaryData.filter(term => term.term.toLowerCase().includes(query));
+    const termCounts = filteredGlossary.reduce((acc, term) => {
+        acc[term.term] = (acc[term.term] || 0) + 1;
+        return acc;
+    }, {});
+
+    displayGlossary(filteredGlossary, globalTermCounts);
+}
+
 // Display function to render glossary terms on the page
 function displayGlossary(glossary, termCounts) {
     const container = document.getElementById('glossary-container');
