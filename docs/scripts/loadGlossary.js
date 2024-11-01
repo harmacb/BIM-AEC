@@ -7,7 +7,7 @@ async function loadGlossary() {
         if (!response.ok) throw new Error(`Failed to load glossary data. Status: ${response.status} - ${response.statusText}`);
 
         const glossary = await response.json();
-        glossaryData = glossary;  // Save full glossary data for searching
+        glossaryData = glossary;  // Save full glossary data for searching and filtering
 
         // Count occurrences of each term
         const termCounts = glossary.reduce((acc, term) => {
@@ -22,10 +22,11 @@ async function loadGlossary() {
     }
 }
 
-// Search function to filter glossary based on user input
-function searchGlossary() {
-    const query = document.getElementById('search-bar').value.toLowerCase();
-    const filteredGlossary = glossaryData.filter(term => term.term.toLowerCase().includes(query));
+// Function to filter glossary by term and redisplay results
+function filterGlossaryByTerm(selectedTerm) {
+    const filteredGlossary = glossaryData.filter(item => item.term === selectedTerm);
+
+    // Recalculate term counts for filtered view (all will be same term)
     const termCounts = filteredGlossary.reduce((acc, term) => {
         acc[term.term] = (acc[term.term] || 0) + 1;
         return acc;
@@ -78,20 +79,22 @@ function displayGlossary(glossary, termCounts) {
         // Add link to view all definitions if the term appears more than once
         if (termCounts[term.term] > 1) {
             const link = document.createElement('a');
-            link.href = `#`;  // Temporary link, modified in filter functionality
+            link.href = `#`;  // Prevent page jump by keeping href="#"
             link.innerText = `See all definitions for ${term.term}`;
             link.classList.add('see-all-link');
+            
+            // Add an event listener to filter glossary by the term when clicked
             link.addEventListener('click', (event) => {
                 event.preventDefault();
-                filterGlossaryByTerm(term.term);
+                filterGlossaryByTerm(term.term);  // Call the filter function with the term
             });
+            
             termElement.appendChild(link);
         }
 
         container.appendChild(termElement);
     });
 }
-
 
 // Function to filter glossary by term
 function filterGlossaryByTerm(term) {
