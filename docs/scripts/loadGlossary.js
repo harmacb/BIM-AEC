@@ -6,6 +6,7 @@ async function loadGlossary() {
         const response = await fetch('data/bim-glossary.json');
         if (!response.ok) throw new Error(`Failed to load glossary data. Status: ${response.status} - ${response.statusText}`);
 
+        console.log("JSON data fetched successfully"); // Add this line
         const glossary = await response.json();
         glossaryData = glossary;  // Save full glossary data for searching and filtering
 
@@ -96,3 +97,5 @@ function displayGlossary(glossary, termCounts) {
         container.appendChild(termElement);
     });
 }
+// loadGlossary is called on page load
+window.onload = loadGlossary;
