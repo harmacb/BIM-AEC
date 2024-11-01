@@ -40,7 +40,15 @@ To use or contribute to this glossary:
 
 ## 📜 Contributing
 
-Contributions are welcome! If you would like to add a term, suggest an edit, or improve the website, please open a pull request or create an issue with your suggestion. Guidelines for contributing can be found in `CONTRIBUTING.md`.
+We welcome contributions to improve the BIM AEC Glossary! Whether you'd like to add a new term, suggest an edit, or enhance the website's functionality, your contributions make this resource more valuable for everyone.
+
+**Adding Terms**: To add a new term, please create a pull request with your entry in bim-glossary.json, following the existing format.
+**Suggesting Edits**: If you notice an error or have suggestions for improvement, you can open an issue describing the change or edit you'd like to propose.
+**Enhancing the Website**: For changes to the website's structure, design, or functionality, please create an issue or pull request detailing the updates.
+
+Guidelines for contributing will be available in CONTRIBUTING.md (coming soon!).
+
+Thank you for helping make the BIM AEC Glossary a comprehensive and reliable resource for the AEC community!
 
 ## 📘 License
 
