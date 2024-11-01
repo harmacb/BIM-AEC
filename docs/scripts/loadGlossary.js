@@ -99,3 +99,17 @@ function displayGlossary(glossary, termCounts) {
 }
 // loadGlossary is called on page load
 window.onload = loadGlossary;
+
+function resetGlossary() {
+    // Clear the search bar input
+    document.getElementById('search-bar').value = '';
+
+    // Recalculate term counts for the full glossary
+    const termCounts = glossaryData.reduce((acc, term) => {
+        acc[term.term] = (acc[term.term] || 0) + 1;
+        return acc;
+    }, {});
+
+    // Display the full glossary
+    displayGlossary(glossaryData, termCounts);
+}
