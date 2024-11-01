@@ -18,6 +18,12 @@
     <!-- Search Bar -->
     <input type="text" id="search-bar" placeholder="Search for a term..." oninput="searchGlossary()" />
 
+    <!-- Publisher Filter Dropdown -->
+    <label for="publisher-filter">Filter by Publisher:</label>
+    <select id="publisher-filter" onchange="filterByPublisher()">
+    <option value="">All Publishers</option>
+    </select>
+
     <!-- Reset Button -->
     <button id="reset-button" onclick="resetGlossary()">Reset</button>
 
