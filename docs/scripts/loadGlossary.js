@@ -24,9 +24,10 @@ async function loadGlossary() {
 
 // Function to filter glossary by term and redisplay results
 function filterGlossaryByTerm(selectedTerm) {
+    // Filter glossaryData to include only the selected term
     const filteredGlossary = glossaryData.filter(item => item.term === selectedTerm);
 
-    // Recalculate term counts for filtered view (all will be same term)
+    // Recalculate term counts for the filtered view
     const termCounts = filteredGlossary.reduce((acc, term) => {
         acc[term.term] = (acc[term.term] || 0) + 1;
         return acc;
@@ -95,18 +96,3 @@ function displayGlossary(glossary, termCounts) {
         container.appendChild(termElement);
     });
 }
-
-// Function to filter glossary by term
-function filterGlossaryByTerm(term) {
-    // Filter glossary items by the selected term and re-render
-    const container = document.getElementById('glossary-container');
-    const glossary = JSON.parse(localStorage.getItem('glossary'));  // Assume glossary data stored in localStorage
-    const filteredGlossary = glossary.filter(item => item.term === term);
-
-    displayGlossary(filteredGlossary, {[term]: filteredGlossary.length});  // Only display filtered terms
-}
-
-// Store glossary in localStorage for easy access in filtering
-document.addEventListener('DOMContentLoaded', () => {
-    loadGlossary().then(glossary => localStorage.setItem('glossary', JSON.stringify(glossary)));
-});
