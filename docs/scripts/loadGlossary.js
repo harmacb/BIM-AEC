@@ -1,17 +1,20 @@
+let glossaryData = [];  // Store original glossary data for easy resetting
+
+// Main function to load the glossary JSON data
 async function loadGlossary() {
     try {
         const response = await fetch('data/bim-glossary.json');
         if (!response.ok) throw new Error(`Failed to load glossary data. Status: ${response.status} - ${response.statusText}`);
 
         const glossary = await response.json();
+        glossaryData = glossary;  // Save full glossary data for searching
 
-        // Count the occurrences of each term
+        // Count occurrences of each term
         const termCounts = glossary.reduce((acc, term) => {
             acc[term.term] = (acc[term.term] || 0) + 1;
             return acc;
         }, {});
 
-        // Display glossary items with term counts
         displayGlossary(glossary, termCounts);
     } catch (error) {
         console.error("Error details:", error);
@@ -19,6 +22,19 @@ async function loadGlossary() {
     }
 }
 
+// Search function to filter glossary based on user input
+function searchGlossary() {
+    const query = document.getElementById('search-bar').value.toLowerCase();
+    const filteredGlossary = glossaryData.filter(term => term.term.toLowerCase().includes(query));
+    const termCounts = filteredGlossary.reduce((acc, term) => {
+        acc[term.term] = (acc[term.term] || 0) + 1;
+        return acc;
+    }, {});
+
+    displayGlossary(filteredGlossary, termCounts);
+}
+
+// Display function to render glossary terms on the page
 function displayGlossary(glossary, termCounts) {
     const container = document.getElementById('glossary-container');
     container.innerHTML = '';  // Clear previous entries
@@ -75,6 +91,7 @@ function displayGlossary(glossary, termCounts) {
         container.appendChild(termElement);
     });
 }
+
 
 // Function to filter glossary by term
 function filterGlossaryByTerm(term) {
