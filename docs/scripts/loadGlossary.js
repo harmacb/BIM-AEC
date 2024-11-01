@@ -1,21 +1,19 @@
 let glossaryData = [];  // Store original glossary data for easy resetting
 
-// Main function to load the glossary JSON data
 async function loadGlossary() {
     try {
         const response = await fetch('data/bim-glossary.json');
         if (!response.ok) throw new Error(`Failed to load glossary data. Status: ${response.status} - ${response.statusText}`);
 
-        console.log("JSON data fetched successfully"); // Add this line
         const glossary = await response.json();
-        glossaryData = glossary;  // Save full glossary data for searching and filtering
+        glossaryData = glossary;
 
-        // Count occurrences of each term
         const termCounts = glossary.reduce((acc, term) => {
             acc[term.term] = (acc[term.term] || 0) + 1;
             return acc;
         }, {});
 
+        populatePublisherDropdown(glossary);
         displayGlossary(glossary, termCounts);
     } catch (error) {
         console.error("Error details:", error);
@@ -23,12 +21,29 @@ async function loadGlossary() {
     }
 }
 
-// Function to filter glossary by term and redisplay results
-function filterGlossaryByTerm(selectedTerm) {
-    // Filter glossaryData to include only the selected term
-    const filteredGlossary = glossaryData.filter(item => item.term === selectedTerm);
+function populatePublisherDropdown(glossary) {
+    const publisherDropdown = document.getElementById('publisher-filter');
+    const uniquePublishers = new Set();
+    glossary.forEach(term => {
+        if (term.citation && term.citation.publisher) {
+            uniquePublishers.add(term.citation.publisher);
+        }
+    });
 
-    // Recalculate term counts for the filtered view
+    Array.from(uniquePublishers).sort().forEach(publisher => {
+        const option = document.createElement('option');
+        option.value = publisher;
+        option.textContent = publisher;
+        publisherDropdown.appendChild(option);
+    });
+}
+
+function filterByPublisher() {
+    const selectedPublisher = document.getElementById('publisher-filter').value;
+    const filteredGlossary = selectedPublisher
+        ? glossaryData.filter(term => term.citation && term.citation.publisher === selectedPublisher)
+        : glossaryData;
+
     const termCounts = filteredGlossary.reduce((acc, term) => {
         acc[term.term] = (acc[term.term] || 0) + 1;
         return acc;
@@ -41,6 +56,9 @@ function filterGlossaryByTerm(selectedTerm) {
 function displayGlossary(glossary, termCounts) {
     const container = document.getElementById('glossary-container');
     container.innerHTML = '';  // Clear previous entries
+
+    // Sort glossary alphabetically by term name
+    glossary.sort((a, b) => a.term.localeCompare(b.term));
 
     glossary.forEach(term => {
         const termElement = document.createElement('div');
@@ -97,6 +115,7 @@ function displayGlossary(glossary, termCounts) {
         container.appendChild(termElement);
     });
 }
+
 // loadGlossary is called on page load
 window.onload = loadGlossary;
 
