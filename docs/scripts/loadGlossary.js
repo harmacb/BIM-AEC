@@ -1,81 +1,92 @@
-// loadGlossary.js
-
-// Function to load the glossary JSON data
 async function loadGlossary() {
     try {
-        // Fetch glossary data from the JSON file
         const response = await fetch('data/bim-glossary.json');
-        
-        // Check if the response is OK
-        if (!response.ok) throw new Error('Failed to load glossary data.');
+        if (!response.ok) throw new Error(`Failed to load glossary data. Status: ${response.status} - ${response.statusText}`);
 
-        // Parse the JSON data
         const glossary = await response.json();
 
-        // Display the data on the page
-        displayGlossary(glossary);
+        // Count the occurrences of each term
+        const termCounts = glossary.reduce((acc, term) => {
+            acc[term.term] = (acc[term.term] || 0) + 1;
+            return acc;
+        }, {});
+
+        // Display glossary items with term counts
+        displayGlossary(glossary, termCounts);
     } catch (error) {
-        console.error(error);
-        document.getElementById('glossary-container').innerHTML = 'Error loading glossary.';
+        console.error("Error details:", error);
+        document.getElementById('glossary-container').innerHTML = 'Error loading glossary. Check console for details.';
     }
 }
 
-// Function to display the glossary data in HTML with updated formatting
-function displayGlossary(glossary) {
+function displayGlossary(glossary, termCounts) {
     const container = document.getElementById('glossary-container');
+    container.innerHTML = '';  // Clear previous entries
+
     glossary.forEach(term => {
-        // Create a container for each term entry
         const termElement = document.createElement('div');
         termElement.classList.add('term');
 
-        // Display the term and version
+        // Title and other fields
         const title = document.createElement('h3');
         title.innerHTML = `<strong>${term.term} ${term.version ? `(v${term.version})` : ''}</strong>`;
         
-        // Display definition
         const definition = document.createElement('p');
         definition.innerHTML = `<strong>Definition:</strong> ${term.definition || 'No definition available.'}`;
         
-        // Display category
         const category = document.createElement('p');
         category.innerHTML = `<strong>Category:</strong> ${term.category || 'No category available.'}`;
-        
-        // Display usage if present
+
         const usage = document.createElement('p');
         usage.innerHTML = `<strong>Usage:</strong> ${term.usage || 'No usage information available.'}`;
 
-        // Append elements in the specified order
         termElement.appendChild(title);
         termElement.appendChild(definition);
         termElement.appendChild(category);
         termElement.appendChild(usage);
 
-        // Conditionally add notes if they exist
+        // Add notes and citation conditionally
         if (term.notes) {
             const notesElement = document.createElement('p');
             notesElement.innerHTML = `<strong>Notes:</strong> ${term.notes}`;
             termElement.appendChild(notesElement);
         }
 
-        // Conditionally add citation details if they exist
         if (term.citation) {
             const citation = document.createElement('p');
-            citation.innerHTML = `
-                <strong>Citation:</strong> ${term.citation.author || 'Unknown author'}, 
-                "${term.citation.title || 'Unknown title'}", 
-                ${term.citation.publisher || 'Unknown publisher'}, 
-                ${term.citation.year || 'Unknown year'}, 
-                ${term.citation.source || 'No source available'}.
-                <br><em>Filename:</em> ${term.citation.filename || 'No filename available.'}
-            `;
+            citation.innerHTML = `<strong>Citation:</strong> ${term.citation.author || 'Unknown author'}, "${term.citation.title || 'Unknown title'}", ${term.citation.publisher || 'Unknown publisher'}, ${term.citation.year || 'Unknown year'}, ${term.citation.source || 'No source available'}.
+            <br><em>Filename:</em> ${term.citation.filename || 'No filename available.'}`;
             termElement.appendChild(citation);
         }
 
-        // Finally, add the term element to the container
+        // Add link to view all definitions if the term appears more than once
+        if (termCounts[term.term] > 1) {
+            const link = document.createElement('a');
+            link.href = `#`;  // Temporary link, modified in filter functionality
+            link.innerText = `See all definitions for ${term.term}`;
+            link.classList.add('see-all-link');
+            link.addEventListener('click', (event) => {
+                event.preventDefault();
+                filterGlossaryByTerm(term.term);
+            });
+            termElement.appendChild(link);
+        }
+
         container.appendChild(termElement);
     });
 }
 
+// Function to filter glossary by term
+function filterGlossaryByTerm(term) {
+    // Filter glossary items by the selected term and re-render
+    const container = document.getElementById('glossary-container');
+    const glossary = JSON.parse(localStorage.getItem('glossary'));  // Assume glossary data stored in localStorage
+    const filteredGlossary = glossary.filter(item => item.term === term);
 
-// Call the loadGlossary function when the page loads
-window.onload = loadGlossary;
+    displayGlossary(filteredGlossary, {[term]: filteredGlossary.length});  // Only display filtered terms
+}
+
+// Store glossary in localStorage for easy access in filtering
+document.addEventListener('DOMContentLoaded', () => {
+    loadGlossary().then(glossary => localStorage.setItem('glossary', JSON.stringify(glossary)));
+});
